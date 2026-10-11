@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://aphelionltd.co.uk">
-    <img src="https://raw.githubusercontent.com/aphelionltd/.github/main/profile/assets/banner.png" alt="Aphelion - Cyber Security" width="100%">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/aphelionltd/.github/main/profile/assets/banner.png">
+      <img src="https://raw.githubusercontent.com/aphelionltd/.github/main/profile/assets/banner.svg" alt="Aphelion - Cyber Security" width="100%">
+    </picture>
   </a>
 </p>
 
